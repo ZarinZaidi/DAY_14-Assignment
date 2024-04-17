@@ -1,5 +1,10 @@
 # assignment
 
+3 Main components are store in src->components folder.
+Routing are done on Routes.js in src folders.
+
+
+
 ## Project setup
 ```
 npm install
